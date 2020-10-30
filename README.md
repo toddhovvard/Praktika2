@@ -110,3 +110,11 @@
 6. Пункт
 
 [Ссылка на репозиторий](Folder)
+
+```java
+
+public static void main(Strings[] args) {
+    System.out.println("Some text");
+}
+
+```
